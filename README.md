@@ -1,10 +1,10 @@
-Olá, sou o André Alves
+Hi, I'm André Alves
 
-Atualmente trabalho como analista de inteligência competitiva.
+I currently work as a competitive intelligence analyst 
 
-Estou iniciando meus passos com SQL, Python e PBI. Trabalho e estudo diariamente essas linguagem.
+I'm beggin my steps with SQL, Python and PBI. I work and study these languages daily.
 
-Você pode me encontrar:
+You can find me on:
 ##
 <div> 
 <a href="https://twitter.com/AndreLuizJaques" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
