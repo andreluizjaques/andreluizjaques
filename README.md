@@ -1,6 +1,6 @@
 Hi, I'm André Alves
 
-I currently work as a competitive intelligence analyst 
+I currently work as a business analyst.
 
 I'm beggin my steps with SQL, Python and PBI. I work and study these languages daily.
 
