@@ -1,8 +1,6 @@
-Hi, I'm André Alves
+Hi, I'm André Alves.
 
-I currently work as a business analyst.
-
-I'm beggin my steps with SQL, Python and PBI. I work and study these languages daily.
+I'm Data Intelligence Manager specializing in credit risk modeling and financial product pricing, with nearly four years of experience in the financial services and expertise in data modeling, financial products, and credit portfolio management.
 
 You can find me on:
 ##
