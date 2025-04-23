@@ -1,6 +1,6 @@
-Hi, I'm André Alves.
+Hi, I'm André Alves,
 
-I'm Data Intelligence Manager specializing in credit risk modeling and financial product pricing, with nearly four years of experience in the financial services and expertise in data modeling, financial products, and credit portfolio management.
+a Data Intelligence Manager specializing in credit risk modeling and financial product pricing, with nearly four years of experience in the financial services and expertise in data modeling, financial products, and credit portfolio management.
 
 You can find me on:
 ##
