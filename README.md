@@ -1,8 +1,17 @@
-Hi, I'm André Alves,
+Atuo na modelagem de risco de crédito, processos de aprovação de crédito e precificação de ativos financeiros, unindo visão analítica e conhecimento de negócios para apoiar decisões estratégicas.
 
-a Data Intelligence Manager specializing in credit risk modeling and financial product pricing, with nearly four years of experience in the financial services and expertise in data modeling, financial products, and credit portfolio management.
+💻 Ferramentas que utilizo no dia a dia:
 
-You can find me on:
+Python (pandas, numpy, matplotlib, scikit-learn)
+
+Excel avançado
+
+Power BI para dashboards e visualização de dados
+
+
+Sempre em busca de melhorar processos, automatizar análises e gerar valor através de dados.
+
+Você pode me encontrar aqui:
 ##
 <div> 
 <a href="https://www.linkedin.com/in/andr%C3%A9-alves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
