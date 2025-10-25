@@ -50,18 +50,6 @@ O projeto compara modelos como **Logistic Regression, Random Forest, XGBoost e L
 
 ---
 
-### [Credit Scoring Model](https://github.com/seuusuario/credit-risk-model)
-Pipeline de modelagem para risco de crédito com métricas KS, ROC AUC e análise de variáveis socioeconômicas.  
-**Stack:** Pandas, Numpy, Logistic Regression, Power BI  
-
----
-
-### [Dashboard Financeiro – Power BI](https://github.com/seuusuario/finance-dashboard)
-Dashboard interativo com indicadores de resultado, inadimplência e performance de carteira.  
-**Stack:** Power BI, DAX, SQL  
-
----
-
 ## Atualmente estudando
 
 - Otimização de Portfólios com **Mean-VaR** e **GARCH(1,1)**  
