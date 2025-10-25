@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o André Alves</h1>
+<h1 align="center">Olá, eu sou o André Alves</h1>
 
 <p align="center">
   <em>Engenherio de Produção | Análise de Dados | Modelagem de Risco de Crédito | Finanças Quantitativas</em><br>
@@ -7,15 +7,15 @@
 
 ---
 
-## 💼 Sobre mim  
-Sou ** Engenheiro de produção e trabalho com análise de dados especializado em Risco de Crédito, Gestão e Modelagem Financeira**, com experiência em **processos de concessão, precificação de ativos e automação analítica**.  
+## Sobre mim  
+Sou **Engenheiro de produção e trabalho com análise de dados especializado em Risco de Crédito, Gestão e Modelagem Financeira**, com experiência em **processos de concessão, precificação de ativos e automação analítica**.  
 Unindo **visão de negócios** e **análise quantitativa**, apoio decisões estratégicas em toda a jornada do crédito — da originação à performance da carteira.
 
-📊 Meu foco é transformar dados em **modelos preditivos e insights acionáveis**, sempre buscando eficiência, automação e escalabilidade.
+Meu foco é transformar dados em **modelos preditivos e insights acionáveis**, sempre buscando eficiência, automação e escalabilidade.
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
@@ -30,54 +30,56 @@ Unindo **visão de negócios** e **análise quantitativa**, apoio decisões estr
 
 ---
 
-## 🧠 Áreas de Atuação
+## Áreas de Atuação
 
-- 📉 **Modelagem de Risco de Crédito (PD, LGD, EAD)**
-- 💰 **Análise de Portfólio e Precificação de Ativos Financeiros**
-- ⚙️ **Automação de Processos Analíticos (Python + SQL)**
-- 📊 **Criação de Dashboards e KPIs de Performance**
-- 🤖 **Machine Learning aplicado a Finanças e Comportamento de Clientes**
-
----
-
-## 📈 Projetos em Destaque
-
-### 🧩 [Churn Prediction – Telecom](https://github.com/seuusuario/churn-prediction)
-Modelo de classificação para prever cancelamento de clientes, utilizando features de comportamento e receita.  
-**Stack:** Python, Scikit-Learn, Matplotlib, Feature Engineering  
+- **Modelagem de Risco de Crédito (PD, LGD, EAD)**
+- **Análise de Portfólio e Precificação de Ativos Financeiros**
+- **Automação de Processos Analíticos (Python + SQL)**
+- **Criação de Dashboards e KPIs de Performance**
+- **Machine Learning aplicado a Finanças e Comportamento de Clientes**
 
 ---
 
-### 💰 [Credit Scoring Model](https://github.com/seuusuario/credit-risk-model)
+## Projetos em Destaque
+
+### [Comparativo de modelos para classificação de clientes](https://github.com/andreluizjaques/Modelos-previsao-churn-clientes)
+Comparação entre diferentes algoritmos de *machine learning* para prever o cancelamento de clientes (*churn*), utilizando **pipelines automatizados de pré-processamento e avaliação**.  
+O projeto compara modelos como **Logistic Regression, Random Forest, XGBoost e LightGBM**, avaliando métricas de desempenho e interpretabilidade.
+
+**Stack:** Python, Scikit-Learn, XGBoost, LightGBM, Pandas, Seaborn, Matplotlib
+
+---
+
+### [Credit Scoring Model](https://github.com/seuusuario/credit-risk-model)
 Pipeline de modelagem para risco de crédito com métricas KS, ROC AUC e análise de variáveis socioeconômicas.  
 **Stack:** Pandas, Numpy, Logistic Regression, Power BI  
 
 ---
 
-### 📊 [Dashboard Financeiro – Power BI](https://github.com/seuusuario/finance-dashboard)
+### [Dashboard Financeiro – Power BI](https://github.com/seuusuario/finance-dashboard)
 Dashboard interativo com indicadores de resultado, inadimplência e performance de carteira.  
 **Stack:** Power BI, DAX, SQL  
 
 ---
 
-## 🌱 Atualmente estudando
+## Atualmente estudando
 
-- 📘 Otimização de Portfólios com **Mean-VaR** e **GARCH(1,1)**  
+- Otimização de Portfólios com **Mean-VaR** e **GARCH(1,1)**  
 
 ---
 
-## 🧾 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/seuusuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/andreluizjaques">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluizjaques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizjaques&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
 ---
 
-## 📬 Onde me encontrar
+## Onde me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andr%C3%A9-alves/" target="_blank">
@@ -87,11 +89,5 @@ Dashboard interativo com indicadores de resultado, inadimplência e performance 
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
 </div>
-
----
-
-<p align="center">
-  💡 <em>"Quando unimos dados, contexto e propósito, transformamos números em decisões inteligentes."</em>
-</p>
 
    
